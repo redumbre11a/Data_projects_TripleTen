@@ -19,4 +19,4 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 13 | Time Series | The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
 | 14 | Machine Learning for Texts | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 15 | Computer Vision | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 16 | Final Project | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 16 | [Final Project](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/Final_Project) | The project task was to create a model to help the telecom operator Interconnect predict client churn. |
