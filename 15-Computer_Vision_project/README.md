@@ -18,6 +18,6 @@ The dataset was obtained from ChaLearn Looking at People. It was prepared for th
 Perform the exploratory data analysis:
 - Look at the dataset size.
 - Explore the age distribution in the dataset.
-- rint 10-15 photos for different ages on the screen to get an overall impression of the dataset.
+- Print 10-15 photos for different ages on the screen to get an overall impression of the dataset.
 
 Engineer a model to recognize a person's age through photographic analysis
