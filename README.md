@@ -17,6 +17,6 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 11 | Linear Algebra | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 12 | Numercal Methods | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
 | 13 | Time Series | The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 14 | Machine Learning for Texts | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
+| 14 | [Machine Learning for Texts](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/14-Machine_Learning_for_Texts_project) | The project task was to create a model that detects negative reviews for an IMDB movie review dataset. |
 | 15 | [Computer Vision](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/15-Computer_Vision_project) | The project task was to create a model capable of recognizing a person's age through photographic analysis. |
 | 16 | [Final Project](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/Final_Project) | The project task was to create a model to help the telecom operator Interconnect predict client churn. |
