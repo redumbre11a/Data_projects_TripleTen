@@ -7,7 +7,7 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 1 | [Working with Data in Python](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/01-Working_with_Data_in_Python) | The project task was to compare the music preferences between two different cities. |
 | 2 | [Exploratory Data Analysis (EDA)](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | [Statistical Data Analysis](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/03-Statistical_Data_Analysis_project) | The project task was to analyze telecom operator's clients' behavior and determine which prepaid plan brings in more revenue.  |
-| 4 | Software Development Tools | The project task was to develop and deploy a web application to a cloud service so that it is accessible to the public. |
+| 4 | [Software Development Tools](https://github.com/redumbre11a/sprint-4-project) | The project task was to develop and deploy a web application to a cloud service so that it is accessible to the public. |
 | 5 | Integrated Project 1 | The project task was to identify patterns that determine whether a video game succeeds or not in order to spot potential big winners and plan advertising campaigns. |
 | 6 | [Data Collection and Storage (SQL)](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/06-Data_Collection_and_Storage_SQL_project) | The project task was to use SQL techniques to parse weather data to analyze its impact on rideshare clients. |
 | 7 | Introduction to Machine Learning | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
