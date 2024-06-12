@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Working with Data in Python | The project task was to investigate how the number of votes a title receives from IMDb users impacts its ratings. |
+| 1 | [Working with Data in Python](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/01-Working_with_Data_in_Python) | The project task was to compare the music preferences between two different cities. |
 | 2 | Exploratory Data Analysis (EDA) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | [Statistical Data Analysis](https://github.com/redumbre11a/Data_projects_TripleTen/tree/main/03-Statistical_Data_Analysis_project) | The project task was to analyze telecom operator's clients' behavior and determine which prepaid plan brings in more revenue.  |
 | 4 | Software Development Tools | The project task was to develop and deploy a web application to a cloud service so that it is accessible to the public. |
